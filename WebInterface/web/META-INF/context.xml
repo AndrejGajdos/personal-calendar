@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/WebInterface">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" name="jdbc/EventManager" password="kolovratok8" type="javax.sql.DataSource" url="jdbc:mysql://mysql51.websupport.sk:3309/bookstoreSpring" username="booksStorePA165"/>
+</Context>
